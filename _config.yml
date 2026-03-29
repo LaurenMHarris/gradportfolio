@@ -4,7 +4,7 @@ title: Lauren M. Harris
 description: MLIS | IUPUI 
 
 baseurl: "/" #name of GitHub repository
-url: "laurenmharris.github.io/" #custom url to be used instead of GitHub repository
+url: "/" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination

@@ -14,15 +14,14 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/laurenharris8"
 stackoverflow: "#"
-github: "#"
+github: "https://github.com/LaurenMHarris"
 researchgate: "#"
-orcid: "#"
+orcid: "https://orcid.org/0009-0009-8210-8624"
 quora: "#"
 instagram: "#"
 facebook: "#"
-
 
 # Markdown
 highlighter: rouge

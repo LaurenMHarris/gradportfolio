@@ -1,9 +1,9 @@
 ### your site title here
 
 title: Lauren M. Harris
-description: subtitle | affiliations | motto
+description: MLIS | IUPUI 
 
-baseurl: "/gradportfolio" #name of GitHub repository
+baseurl: "/" #name of GitHub repository
 url: "laurenmharris.github.io/" #custom url to be used instead of GitHub repository
 email: #
 
